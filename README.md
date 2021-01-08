@@ -1,2 +1,0 @@
-# Swapping
-Developed by devayani 
